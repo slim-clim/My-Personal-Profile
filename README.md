@@ -9,4 +9,6 @@ It serves as an **online portfolio** to showcase my bio, hobbies, and contact de
 
 
 ## 📂 Project Structure
-- 
+- Profile Picture
+- index
+- README
